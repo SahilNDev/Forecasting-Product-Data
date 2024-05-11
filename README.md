@@ -16,7 +16,7 @@ If you don't have any of these is not possible, then you can use Google Colab to
 ## Steps
 To run the code on local device:
 1. ```bash
-   git clone
+   git clone https://github.com/SahilNDev/Forecasting-Product-Data.git
    ```
 2. ```bash
    cd Forecasting-Product-Data
