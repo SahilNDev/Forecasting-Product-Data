@@ -12,7 +12,7 @@ model = pickle.load(open('model.pkl', 'rb'))
 data = pd.read_csv('dataset/Test Dataset.csv')
 data.dropna(inplace=True)
 
-st.title("Forecasting Sourcing Cost of Product Data")
+st.title("Forecasting Sourcing Cost of Product Data for June 2021")
 
 select_pt = st.selectbox('Select ProductType', data['ProductType'].unique())
 select_m = st.selectbox('Select Manufacturer', data['Manufacturer'].unique())
