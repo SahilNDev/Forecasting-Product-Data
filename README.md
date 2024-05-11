@@ -23,3 +23,5 @@ To run the code on local device:
    pip install -r requirements.txt
    ```
 4. Now open the `Sahil_Nagaralu_AIML_Assessment.ipynb` file and run all the cells in the notebook.
+## Website
+To view the working of the python file on streamlit, this is the link: 
