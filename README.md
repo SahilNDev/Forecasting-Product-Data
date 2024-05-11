@@ -10,7 +10,7 @@ If you don't have any of these is not possible, then you can use Google Colab to
 2. `dataset/Test Dataset.csv`: This is the file that contains the data for Products for 1 months (June 2021)
 3. `Sahil_Nagaralu_AIML_Assessment.ipynb`: This is the notebook which contains the python code to run the forecasting model.
 4. `Sahil_Nagaralu_AIML_Assessment.py`: This is the python code that is being used to run on streamlit website to show the forecasting predictions.
-5. `label_encoder.pkl`: The pickle file containing the Label Encoder from the notebook.
+5. `label_encoders.pkl`: The pickle file containing the Label Encoders for all columns from the notebook.
 6. `model.pkl`: The pickle file containing the Best Model from the notebook.
 7. `requirements.txt`: This file contains the required modules to run the code in the notebook.
 ## Steps
